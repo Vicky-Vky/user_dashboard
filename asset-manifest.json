@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/user_dashboard.git/static/css/main.4793e856.css",
+    "main.js": "/user_dashboard.git/static/js/main.ffc6037f.js",
+    "static/media/v960-ning-30.jpg": "/user_dashboard.git/static/media/v960-ning-30.945a8bf0825b6a8af452.jpg",
+    "index.html": "/user_dashboard.git/index.html",
+    "main.4793e856.css.map": "/user_dashboard.git/static/css/main.4793e856.css.map",
+    "main.ffc6037f.js.map": "/user_dashboard.git/static/js/main.ffc6037f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4793e856.css",
+    "static/js/main.ffc6037f.js"
+  ]
+}
